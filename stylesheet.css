@@ -1,0 +1,58 @@
+#logo{
+    border-style: solid;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-color: yellowgreen
+    
+
+}
+.btn{
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px
+}
+
+
+#page{
+    border-style: solid;
+   text-align: center;
+   padding-top: 5px;
+  
+   padding-bottom: 5px;
+   font-size: 30px;
+   border-color: yellowgreen
+   
+}
+#img{
+
+
+    border-style: solid;
+    padding-top: 100px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    
+    
+    border-color: yellowgreen
+}
+#footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+    
+}
+#font{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-color: yellowgreen
+
+}
+#ifram{
+    text-align: right
+}
+body{
+    background-color: rgb(254, 114, 29);
+}
